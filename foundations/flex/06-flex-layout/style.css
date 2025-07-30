@@ -38,7 +38,8 @@ a {
   color: gray;
 }
 
-.header, .footer {
+.header, 
+.footer {
   display: flex;
   justify-content:space-between;
 }
@@ -47,7 +48,8 @@ a {
   background-color: rgb(238, 238, 238);
 }
 
-.left-links, .right-links {
+.left-links, 
+.right-links {
   display: flex;
   gap: 1em;
   list-style-type: none;
